@@ -3,9 +3,10 @@
 This is Fan-Made 3D model of the Nexon Museum Metal Badge Keychain Adapter. It is designed to hold the metal badge and can be attached to a keychain.
 
 ## Environment
-- Printer: Bambu Lab A1 Combo
+- Printer: Bambu Lab A1 Combo (with AMS lite)
+- Slicer: Bambu Studio
 - Materials:
-  | Printer | Brand | Material | Type | Color | Code |
+  | Part | Brand | Material | Type | Color | Code |
   |-|-|-|-|-|-|
   | Base | eSUN | PLA | Matte | Milky White | #FFFFFB
   | Arona | eSUN | PLA | Matte | Light Blue | #6BC5F5
