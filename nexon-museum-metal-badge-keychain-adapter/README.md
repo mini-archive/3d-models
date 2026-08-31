@@ -47,7 +47,7 @@ Here are the steps to assemble the Nexon Museum Metal Badge Keychain Adapter:
 ![](img/assembly-5.jpeg)
 ![](img/assembly-6.jpeg)
 
-1. 배지를 다시 전면에 위치시키고, 어댑터의 전면에 있는 구멍에 핀을 통과시켜 고정합니다.
+1. 배지를 다시 전면에 위치시키고, 어댑터의 전면에 있는 구멍에 핀을 통과시켜 고정합니다.  
    Reposition the badge to the front and pass the pin through the hole on the front of the adapter to secure it.
 ![](img/assembly-7.jpeg)
 ![](img/assembly-8.jpeg)
